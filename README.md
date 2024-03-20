@@ -55,4 +55,7 @@ nvidia-smi
 docker run -d -v /var/run/docker.sock:/var/run/docker.sock -e DEVICE_NAME="yourdevicename" -e DEVICE_ID=yourdeviceid -e USER_ID=youruserid -e USEGPUS=true --pull always ionetcontainers/io-launch:v0.1
 ```
 
+![image](https://github.com/enyaselessar/Io.net-Hiveos/assets/108255403/f39c3733-6a1d-432a-939e-3fbc49c9c21b)
+
+
 
